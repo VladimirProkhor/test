@@ -13,5 +13,6 @@ public class Solution {
             System.out.println("I am robot");
             System.out.println("My name is John");
             System.out.println("This is happy day");
+            System.out.println("All ok");
         }
 }
